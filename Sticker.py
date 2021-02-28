@@ -113,7 +113,7 @@ if __name__ == '__main__':
 
     s = Sticker('gif/left.gif', xy=[0, 200], on_top=True)
 
-    s1 = Sticker('gif/amongus/red_vent.gif', xy=[390, 910], size=0.3, on_top=True)
+    s1 = Sticker('gif/amongus/red_vent.gif', xy=[990, 710], size=0.3, on_top=True)
 
     s2 = Sticker('gif/amongus/orange.gif', xy=[600, 710], size=0.3, on_top=True)
 
